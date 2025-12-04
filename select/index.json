@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "アポトーシス",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-04T05:09:17.406914Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンプランド・アポトーシス",
+      "artist": "柊マグネタイト",
+      "has_synced": false,
+      "path": "select/01_アンプランド・アポトーシス_柊マグネタイト.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アポトーシス",
+      "artist": "摩天楼オペラ",
+      "has_synced": true,
+      "path": "select/02_アポトーシス_摩天楼オペラ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アポトーシス - S!N",
+      "artist": "灰色Logic",
+      "has_synced": false,
+      "path": "select/03_アポトーシス_-_S!N_灰色Logic.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アポトーシス",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/04_アポトーシス_Official髭男dism.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アポトーシス",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_アポトーシス_Official髭男dism.txt"
+    }
+  ]
+}
